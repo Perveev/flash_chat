@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "332740302993",
+    "project_id": "flash-chat-51869",
+    "storage_bucket": "flash-chat-51869.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332740302993:android:e20b240307185e71b28730",
+        "android_client_info": {
+          "package_name": "co.perveev.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332740302993-deg9jo7sb0k5vnc3lgec7ad3guic9ak8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJDfBA79048gKeutmJr26BVo5oDrjAb7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332740302993-deg9jo7sb0k5vnc3lgec7ad3guic9ak8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
